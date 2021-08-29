@@ -1,0 +1,1 @@
+Payrol.c : A payroll system that calculates the monthly net pay of staff in a firm after deducting tax.
